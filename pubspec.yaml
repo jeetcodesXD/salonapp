@@ -43,6 +43,7 @@ dependencies:
   flutter_feather_icons: ^2.0.0+1
   lucide_icons: ^0.257.0
   flutter_svg: ^2.0.17
+  dots_indicator: ^4.0.1
 
 dev_dependencies:
   flutter_test:

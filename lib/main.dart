@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:project/features/main/screens/splash_screen.dart';
+import 'package:project/forSalon/home/homescreen.dart';
 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
         highlightColor: Colors.transparent,
         scaffoldBackgroundColor: Colors.white,
       ),
-      home: const SplashScreen(),
+      home: const HomeScreenSalon(),
     );
   }
 }
