@@ -27,6 +27,8 @@ This is a beautifully designed **Salon Booking App frontend**, developed in **Fl
 
 |  |
 |-----------------|
-| ![s7](https://github.com/user-attachments/assets/c133b526-179c-4b75-8688-37b738cd08fd) |
+| ![s7](https://github.com/user-attachments/assets/c133b526-179c-4b75-8688-37b738cd08fd) | ![Screenshot_2025-06-30-00-42-04-162_com example project](https://github.com/user-attachments/assets/64997de3-9e08-4d7e-bd41-ee9b05bf1644) | ![Screenshot_2025-06-30-00-42-56-140_com example project](https://github.com/user-attachments/assets/22160b84-614c-4ef3-aea8-282a035ded09)
+
+
 
 ---
