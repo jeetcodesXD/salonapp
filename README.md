@@ -14,7 +14,6 @@ This is a beautifully designed **Salon Booking App frontend**, developed in **Fl
 - 📅 Booking UI flow (choose services, times, etc.)
 
 ---
-
 ## 📸 Screenshots
 
 |  |  |  |
@@ -25,9 +24,7 @@ This is a beautifully designed **Salon Booking App frontend**, developed in **Fl
 |---------------------|--------------|----------------|
 | ![s4](https://github.com/user-attachments/assets/f634706c-a13d-4f85-ace1-28840708188b) | ![s5](https://github.com/user-attachments/assets/1f3373ae-b147-46fe-b7c5-01a482c8b957) | ![s6](https://github.com/user-attachments/assets/43e44168-6fea-43ff-81f2-8cccab797b63) |
 
-|  |
-|-----------------|
-| ![s7](https://github.com/user-attachments/assets/c133b526-179c-4b75-8688-37b738cd08fd) | ![s8](https://github.com/user-attachments/assets/64997de3-9e08-4d7e-bd41-ee9b05bf1644) | ![s9](https://github.com/user-attachments/assets/22160b84-614c-4ef3-aea8-282a035ded09)
+|  |  |  |
+|-----------------|-----------------|-----------------|
+| ![s7](https://github.com/user-attachments/assets/c133b526-179c-4b75-8688-37b738cd08fd) | ![s8](https://github.com/user-attachments/assets/64997de3-9e08-4d7e-bd41-ee9b05bf1644) | ![s9](https://github.com/user-attachments/assets/22160b84-614c-4ef3-aea8-282a035ded09) |
 
-
----
